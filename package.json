@@ -9,8 +9,17 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "express": "^4.21.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nicollas-espeto029/api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Nicollas-espeto029/api/issues"
+  },
+  "homepage": "https://github.com/Nicollas-espeto029/api#readme",
+  "description": ""
 }
